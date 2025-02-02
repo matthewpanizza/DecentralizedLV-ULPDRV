@@ -5,10 +5,9 @@
 #include "Particle.h"
 #line 1 "c:/Users/mligh/OneDrive/Particle/DecentralizedLV-ULPDRV/src/DecentralizeULPDRV.ino"
 /*
- * Project DecentralizeLPDRV
+ * Project DecentralizeULPDRV
  * Description: Code for the Decentralized Low-Voltge System Low-Power Driver Boards
- * Author: Matthew Panizza
- * Date: May 7, 2022
+ * Date: February 1, 2025
  */
 #include "DecentralizedLV-Boards/DecentralizedLV-Boards.h"
 
@@ -22,7 +21,7 @@ void setup();
 void loop();
 void animationHandler();
 void animationHandler2();
-#line 15 "c:/Users/mligh/OneDrive/Particle/DecentralizedLV-ULPDRV/src/DecentralizeULPDRV.ino"
+#line 14 "c:/Users/mligh/OneDrive/Particle/DecentralizedLV-ULPDRV/src/DecentralizeULPDRV.ino"
 #define BDRL      //Rear-Left Board
 //#define BDRR        //Rear-Right Board
 
